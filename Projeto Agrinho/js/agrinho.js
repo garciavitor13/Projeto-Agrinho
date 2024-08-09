@@ -1,0 +1,1 @@
+document.getElementById("test-java").innerHTML="meu primeiro texto";
